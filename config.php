@@ -5,7 +5,7 @@ const SITE_NAME = 'Zenara Group';
 const SITE_EMAIL = 'hello@zenaragroup.co.ke';
 const SITE_PHONE = '+254 700 000 000';
 
-const DB_HOST = 'localhost';
+const DB_HOST = 'sdb-74.hosting.stackcp.net';
 const DB_NAME = 'zenaraDB-353036353ef3';
 const DB_USER = 'sa-71b8';
 const DB_PASS = 'MAnu0077@21@!';
