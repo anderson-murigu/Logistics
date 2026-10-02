@@ -6,9 +6,9 @@ const SITE_EMAIL = 'hello@zenaragroup.co.ke';
 const SITE_PHONE = '+254 700 000 000';
 
 const DB_HOST = 'localhost';
-const DB_NAME = 'zenara_logistics';
-const DB_USER = 'zenara_user';
-const DB_PASS = 'change-this-password';
+const DB_NAME = 'zenaraDB-353036353ef3';
+const DB_USER = 'sa-71b8';
+const DB_PASS = 'MAnu0077@21@!';
 
 function database(): ?PDO
 {
